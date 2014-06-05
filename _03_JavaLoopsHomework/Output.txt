@@ -1,0 +1,7 @@
+pastaBalkan 0.42
+orrange 1.2
+water 1.2
+cherries 2.74
+milk 2.8
+potatoes 3.5
+coffee 8.5
